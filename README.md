@@ -1,2 +1,2 @@
 # sicibit
-Palm board for SiCi
+Activity board for SiCi
